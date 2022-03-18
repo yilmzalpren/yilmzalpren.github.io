@@ -55,13 +55,14 @@ html,body{
     color: #919191;
 }
 .app-picture{
-    width: 50%;
-    float: right;
+    width: 100%;
+    
 }
 .app-picture img {
-    width: 100%;
-    margin-top: -20px;
-    padding-left: 500px;
+    width: 30%;
+    margin-left: 700px;
+    margin-top: 50px;
+
 }
 .footer{
     position: fixed;
