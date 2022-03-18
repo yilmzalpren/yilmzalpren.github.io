@@ -12,5 +12,37 @@ body{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    
+     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 1px;
+}
+.leftSideTitle{
+    margin-top:50px;
+    margin-left:15px;
+    font-size:25px 
+}
+.leftSideDescription{
+    margin-left: 15px;
+}
+.leftSideHR{
+    margin-left:15px;
+    margin-right: 70px;
+    border-top: 1px solid gray;
+}
+.refName{
+    margin-left:15px;
+}
+.refDescription{
+    margin-left:18px;
+    font-size:15px;
+}
+.col-sm-8 p {
+    margin-left: 30px;
+    margin-right: 60px;
+}
+.rightSideTitle{
+    font-size: 25px;
+}
+.rightSideHR{
+    margin-left:30px;
+    margin-right: 70px;
+    border-top: 1px solid gray ; 
 }
